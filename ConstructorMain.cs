@@ -81,4 +81,4 @@ namespace Dawn.POC
 
 
 
-//o btw, VRC uses how the constructor is made above in the initial constructor instead of creating a new object, so this is useless ;)
+//o btw, VRC uses constructors differently as they inherit the Monobehaviour class so this is useless on most Player related constructor creation ;)
