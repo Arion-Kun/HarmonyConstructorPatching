@@ -1,4 +1,4 @@
-# HarmonyConstructorPatching
+# Harmony Constructor Patching
 
 __This is a C# preview of Constructor patching using the HarmonyLib Nuget Package instead of the In-Built MelonLoader.dll Harmony Package.__
 __Packages differ slightly regarding HarmonyInstance.__
